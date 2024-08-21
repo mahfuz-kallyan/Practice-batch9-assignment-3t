@@ -1,0 +1,9 @@
+.junior{
+    background-image: linear-gradient(45deg, rgba(0 ,0, 0, 0.7), rgba(0, 0, 0, 0.2)), url(/Images/2.png);
+}
+.teenager{
+    background-image: linear-gradient(45deg, rgba(0 ,0, 0, 0.7), rgba(0, 0, 0, 0.2)), url(/Images/3.png);
+}
+.professional{
+    background-image: linear-gradient(45deg, rgba(0 ,0, 0, 0.7), rgba(0, 0, 0, 0.2)), url(/Images/4.png);
+}
